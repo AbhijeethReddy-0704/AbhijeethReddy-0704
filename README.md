@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently working on projects related to data analysis, software engineering, and data engineering<br>- 👯 I’m looking to collaborate on software solutions, analytics projects, dashboards, and automation tools<br>- 🤝 I’m looking for help with building scalable applications, cloud-based systems, and end-to-end data products<br>- 🌱 I’m currently learning advanced software development, system design, and modern data technologies<br>- 💬 Ask me about Python, SQL, Power BI, data analytics, software development, and ETL pipelines<br>- ⚡ Fun fact: I enjoy solving problems by combining coding, analytics, and creativity- 🔭 I’m currently working on projects related to data analysis, software engineering, and data engineering<br>- 👯 I’m looking to collaborate on software solutions, analytics projects, dashboards, and automation tools<br>- 🤝 I’m looking for help with building scalable applications, cloud-based systems, and end-to-end data products<br>- 🌱 I’m currently learning advanced software development, system design, and modern data technologies<br>- 💬 Ask me about Python, SQL, Power BI, data analytics, software development, and ETL pipelines<br>- ⚡ Fun fact: I enjoy solving problems by combining coding, analytics, and creativity
+- 🔭 I’m currently working on projects related to data analysis, software engineering, and data engineering  
+- 👯 I’m looking to collaborate on software solutions, analytics projects, dashboards, and automation tools  
+- 🤝 I’m looking for help with building scalable applications, cloud-based systems, and end-to-end data products  
+- 🌱 I’m currently learning advanced software development, system design, and modern data technologies  
+- 💬 Ask me about Python, SQL, Power BI, data analytics, software development, and ETL pipelines  
+- ⚡ Fun fact: I enjoy solving problems by combining coding, analytics, and creativity
 
 
 ## 🌐 Socials:
